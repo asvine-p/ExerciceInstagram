@@ -5,7 +5,7 @@ How To Use:
 
   -Firstly, connect to your Instagram Account
   -See your recent photos posted
-  -Disconect if you want to see a another account
+  -Disconnect if you want to see another account
   
   
 Minimum Android SDK: API 18
